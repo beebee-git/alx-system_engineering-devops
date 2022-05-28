@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a *./[[:alnum:]]
+ls -a .*/,[[:alnum:]],[[:digit:]],[[:alpha:]]
