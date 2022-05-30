@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/binbash
 ls > ls_cwd_content
