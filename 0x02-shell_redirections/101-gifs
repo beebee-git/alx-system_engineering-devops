@@ -1,0 +1,2 @@
+#!/bin/bash
+find . .gifs -printf "%f\n"
