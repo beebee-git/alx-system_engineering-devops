@@ -31,4 +31,4 @@ about IP addresses while practicing manipulating them with Bash scripts.
 
 * **4. Port listening on localhost**
   * [4-port_listening_on_localhost](./4-port_listening_on_localhost): Bash script that
-  listens on port `98` on `localhost`.
+  listens on port `98` on `localhost`
